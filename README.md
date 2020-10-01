@@ -20,7 +20,7 @@ Install dependencies:
     make
     make install
 
-Clone repository:
+Run this command to clone the repository:
 
     git clone git@github.com:it-workshop/caroline.git
 
